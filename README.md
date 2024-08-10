@@ -1,7 +1,3 @@
-### Links
-- Personal website: <https://caukub.dev>
-- Blog: <https://blog.caukub.dev>
-
 ### Get in touch with me
 - Discord: <https://discord.gg/7q6QbQfMba> (`@caukub`)
 - SimpleX: [here](https://simplex.chat/contact#/?v=2-5&smp=smp%3A%2F%2FUkMFNAXLXeAAe0beCa4w6X_zp18PwxSaSjY17BKUGXQ%3D%40smp12.simplex.im%2FFrSLjX2nfM323Q-XKwMGFlZyDV-XWpDk%23%2F%3Fv%3D1-2%26dh%3DMCowBQYDK2VuAyEA9ZOyNQXlpWVlw2r5w6WSHk_9wGMyfdnIg5xB7_DvVx0%253D%26srv%3Die42b5weq7zdkghocs3mgxdjeuycheeqqmksntj57rmejagmg4eor5yd.onion)
