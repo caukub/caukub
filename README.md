@@ -10,4 +10,3 @@ If you value anything I do and want to support further work or just say thanks, 
 or
 
 - XMR: `86A4mMoj6jkZkh56K2zPGSPtP76Z432SV8NcvxqmCwrRcFrHbsxXAbbe7UV4eKx4oqAAaVqjas85JG5knHhgvGEg95XQQGD`
-- BTC: `36AN1YB9QrmD4A6UhnYSE6gB6wtXf17Pft`
